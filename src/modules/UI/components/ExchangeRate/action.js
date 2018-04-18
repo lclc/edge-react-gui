@@ -32,6 +32,9 @@ const fakeExchangeRate = {
   WINGS: {
     value: 1 / 5000000000000000000 * randomSeed
   },
+  VLD: {
+    value: 1 / 7000000000000000000 * randomSeed
+  },
   LUN: {
     value: 1 / 2000000000000000000 * randomSeed
   }

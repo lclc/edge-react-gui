@@ -59,6 +59,9 @@ type SettingsState = {
   WINGS: {
     denomination: string
   },
+  VLD: {
+    denomination: string
+  },
   account: ?Object,
   autoLogoutTimeInSeconds: number,
   bluetoothMode: boolean,
